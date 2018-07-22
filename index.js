@@ -1,8 +1,8 @@
 // Add your functions and code here
-kittens = [0];
+kittens = ["kitty"];
 
 function destructivelyAppendKitten(name) {
-  
+  kittens.push(name);
 }
 
 function destructivelyPrependKitten(name) {
