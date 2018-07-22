@@ -1,4 +1,6 @@
 // Add your functions and code here
+kittens = [];
+
 function destructivelyAppendKitten(name) {
   
 }
