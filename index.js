@@ -1,5 +1,5 @@
 // Add your functions and code here
-kittens = [];
+kittens = new Array();
 
 function destructivelyAppendKitten(name) {
   
