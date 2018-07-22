@@ -1,4 +1,6 @@
 // Add your functions and code here
+var kittens = [0];
+
 function destructivelyAppendKitten(name) {
   
 }
